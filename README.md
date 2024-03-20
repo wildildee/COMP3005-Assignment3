@@ -21,3 +21,6 @@ Run the python file assignment3.py followed by one of the following commands
 Example: `py assignment3.py read`
 
 If extra information is needed the program will prompt you for it after the command
+
+## Video Demonstration
+https://youtu.be/PxVV7Rip1fQ
