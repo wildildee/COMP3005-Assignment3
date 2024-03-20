@@ -10,7 +10,7 @@ Download the reposity into a folder using:
 Then cd into the folder and run this command to install the python libraries
 `pip install -r requirements.txt`
 
-##How to run the application
+## How to run the application
 Run the python file assignment3.py followed by one of the following commands
 
  - create
